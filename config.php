@@ -2,7 +2,7 @@
 // Laboratório didático local - use somente em localhost/ambiente controlado.
 $host = "localhost";
 $user = "root";
-$pass = "root";
+$pass = "leideelaila";
 $db   = "aula_sql_injection";
 
 $conn = new mysqli($host, $user, $pass, $db);
